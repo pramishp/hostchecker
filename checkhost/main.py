@@ -26,7 +26,13 @@ blacklist_words = [
     "This video has been deleted", #vev.red
     "File is no longer available as it expired or has been deleted.", # newsexit
     "Looks like we lost one.",
-
+    "missing video id", #gcloud.live
+    "404. PAGE NOT FOUND",
+    "File code was changed, please check your account and Update embed code on your site.",# prostream.to
+    "We can't find the video you are looking for.",#mixdrop.co
+    "We cant give you what you looking for.",#oyohd
+    "ERROR 2",#player.clipot.tv
+    "File is no longer available as it expired or has been deleted.", #newsexit
 ]
 
 
