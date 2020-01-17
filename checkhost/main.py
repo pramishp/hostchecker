@@ -33,6 +33,7 @@ blacklist_words = [
     "We cant give you what you looking for.",#oyohd
     "ERROR 2",#player.clipot.tv
     "File is no longer available as it expired or has been deleted.", #newsexit
+    "no link found", #gdriveplayer
 ]
 
 
